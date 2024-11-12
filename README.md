@@ -1,7 +1,7 @@
 **👩‍🍳🍴IndiChef - Automated Recipe Generator👩‍🍳🍴**
 IndiChef is a web application designed to assist users in generating Indian cuisine recipes automatically. This tool leverages the power of AI, specifically Google's generative AI models, to provide users with recipe suggestions based on their input prompts.
 
-### Get your API key or gemini from [Gemini AI Studio](https://ai.google.dev/gemini-api/docs/api-key), and paste your key in [Environmet file](.env)
+### Get your API key or gemini from [Gemini AI Studio](https://ai.google.dev/gemini-api/docs/api-key), and paste your key in [Environment file](.env)
 
 ## How to run ##
 Step 1: Clone the repo.
