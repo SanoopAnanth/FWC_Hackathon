@@ -59,7 +59,4 @@ Enter the dish name, ingredients, and instructions in the provided text input fi
 Click the "Generate Recipe" button to receive personalized recipe suggestions instantly.
 
 
-Thank you,
-Regards
-Sanoop A (contributer),
-Faizal Hussain (contributer)
+Thank you
