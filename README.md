@@ -1,6 +1,32 @@
 **👩‍🍳🍴IndiChef - Automated Recipe Generator👩‍🍳🍴**
 IndiChef is a web application designed to assist users in generating Indian cuisine recipes automatically. This tool leverages the power of AI, specifically Google's generative AI models, to provide users with recipe suggestions based on their input prompts.
 
+### Get your API key or gemini from [Gemini AI Studio](https://ai.google.dev/gemini-api/docs/api-key), and paste your key in [Environmet file](.env)
+
+## How to run ##
+Step 1: Clone the repo.
+```
+git clone https://github.com/SanoopAnanth/FWC_Hackathon.git
+```
+
+Step 2: Create virtual environment using conda. And don't forget to activate the environment.
+```
+conda create -p venv python==3.10 -y
+
+conda activate <path_where_venv>
+```
+Step 3: Install all the requirements files.
+```
+pip install -r requirements.txt
+```
+Step 4: Run the application.
+```
+streamlit run app.py
+```
+### After the above 4 steps, the streamlit application will be opened locally in a browser. ###
+
+
+
 **Key Features**
 ***📝Recipe Generation:***
 Input details such as dish name, ingredients, and instructions in a structured format.
@@ -31,3 +57,9 @@ IndiChef also includes a voice input feature powered by Google Speech Recognitio
 Enter the dish name, ingredients, and instructions in the provided text input fields.
 ***Generate Recipe 📜***
 Click the "Generate Recipe" button to receive personalized recipe suggestions instantly.
+
+
+Thank you,
+Regards
+Sanoop A (contributer),
+Faizal Hussain (contributer)
